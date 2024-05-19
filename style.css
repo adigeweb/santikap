@@ -724,6 +724,11 @@ button.social:has(i.fa.fa-copy) {
     background: gray;
 }
 
+button.social:has(i.fa.fa-code) {
+    color: black;
+    background: white;
+}
+
 .socials {
     display: flex;
     justify-content: center;

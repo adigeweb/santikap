@@ -204,6 +204,7 @@ window.addEventListener("load", () => {
     }
     document.querySelector(".topbar span.item#theme").addEventListener("click", switchTheme);
     document.querySelector(".topbar span.item#share button").addEventListener("click", () => {
+        var embed = `<div style='color: white; background: #222; font-family: Trebuchet MS; padding: 1rem; border-radius: .3em; width: 20vw; text-align: center; cursor: pointer;' onclick='window.open("${location.href}")'><img src="${document.querySelector(".main.article img.thumbnail").src}" style="width: calc(100% - 2rem); border-radius: .3rem;" /><h1>${document.querySelector(".main.article .title").innerText}</h1><p>${document.querySelector(".main.article #header .desc").innerText.substring(0, 60)}...</p></div>`;
         showModal({
             thumbnail: "../assets/paylas.png",
             title: "Sayfayı Paylaş",
@@ -212,14 +213,26 @@ window.addEventListener("load", () => {
                 <button onclick="window.shareTo('whatsapp')" class="social"><i class="fab fa-whatsapp"></i></button>
                 <button onclick="window.shareTo('twitter')" class="social"><i class="fab fa-x-twitter"></i></button>
                 <button onclick="navigator.clipboard.writeText(document.querySelector('.main.article .title').innerText + ', ' + location.href).then(() => {});" class="social"><i class="fa fa-copy"></i></button>
+                <button id="embedCreator" class="social"><i class="fa fa-code"></i></button>
             </div>
             `
+        });
+        document.querySelector("#embedCreator").addEventListener("click", () => {
+            copyEmbed(embed);
+            showModal({
+                title: "Tamamdır!",
+                desc: "Gömme içeriğe ait HTML kodu panonuza kopyalandı."
+            })
         });
     });
     document.querySelector(".modal span.close").addEventListener("click", hideModal);
 });
 
 const checkMobileView = (x, y) => (x < y * .8);
+
+const copyEmbed = (code) => {
+    navigator.clipboard.writeText(code);
+}
 
 if (checkMobileView(window.innerWidth, window.innerHeight)) {
     document.querySelector(".navbar").classList.add("mobile");
