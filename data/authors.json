@@ -1,0 +1,32 @@
+{
+    "Toby Fox": {
+        "profil": "https://upload.wikimedia.org/wikipedia/en/a/af/Toby_Fox_dog.jpg",
+        "isim": "Robert F. Fox",
+        "koken": "Amerikan",
+        "aciklama": "Bir video oyunu geliştiricisi ve bestekârdır. 11 Ekim 1991 tarihinde dünyaya gelmiştir. ABD'deki Northeastern Üniversitesinin mezunudur. \"Undertale\" adlı oyunuyla meşhur olmuş, sonrasında buna devam niteliğinde olan \"Deltarune\" oyununu çıkarmıştır."
+    },
+    "Namık Kemal": {
+        "profil": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nam%C4%B1k_Kemal-3.2_a.jpg/330px-Nam%C4%B1k_Kemal-3.2_a.jpg",
+        "isim": "Mehmed Kemal",
+        "koken": "Türk",
+        "aciklama": "21 Aralık 1840'ta Tekirdağ'da dünyaya gelmiştir. Tanzimat Dönemi yazarlarındandır. \"Vatan Şâiri\" veya \"Hürriyet Şâiri\" şeklinde anılır. Namık mahlâsını Eşref Paşa'dan almıştır. \"İntibah, Cezmi\" gibi romanlar ve \"Vatan Yahut Silistre\" gibi tiyatro oyunlarıyla meşhur olmakla berâber birçok türde eser vermiştir. \"Hürriyet\" isminde bir gazete çıkarmıştır. 2 Aralık 1888 tarihinde Sakız Adası'nda vefât etmiştir."
+    },
+    "Sabahattin Ali": {
+        "profil": "https://upload.wikimedia.org/wikipedia/tr/f/f6/Sabahattin_ali.jpg",
+        "isim": "Sabahattin Ali",
+        "koken": "Türk",
+        "aciklama": "25 Şubat 1907'de Eğridere, Edirne'de dünyaya gelmiştir. Birçok hikâyenin yazarı olmakla beraber romanlarıyla meşhurdur. \"Kuyucaklı Yusuf\", \" İçimizdeki Şeytan\" ve \"Kürk Mantolu Madonna\" en çok bilinen eserlerindendir. Buna ilâveten şiirler de yazmıştır. Hayâtının son yıllarında siyâsîleri eleştirmesi sebebiyle şahsına dâvalar açılmış, bu sebeple Türkiye'den ayrılma girişiminde bulunmuştur. Fakat 2 Nisan 1948 tarihinde Kırklareli'nde Bulgaristan sınırını aşamadan Ali Ertekin tarafından öldürülmüştür."
+    },
+    "John Steinback": {
+        "profil": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Steinbeck_1939_%28cropped%29.jpg/330px-John_Steinbeck_1939_%28cropped%29.jpg",
+        "isim": "John Steinback",
+        "koken": "Amerikan",
+        "aciklama": "İrlanda asıllı yazardır. 27 Şubat 1902 tarihinde dünyaya gelmiştir. \"Fareler ve İnsanlar\", \"Gazap Üzümleri\" ve \"Kırmızı Midilli\" en meşhurları olmak üzere 17 adet romanı vardır. Eserlerinde proleterin hayâtını konu almış, toplumsal sorunlara çokça yer vermiştir. Pulitzer Ödülü, Ulusal Kitap Ödülü ve Nobel Edebiyat Ödülü gibi ödüllere lâyık görülmüştür. Yazarlığın yanında inşaat işçiliği, tarla işçiliği, boyacı çıraklığı ve bekçilik gibi birçok işle de meşgul olmuştur. 20 Aralık 1968 tarihinde kalp yetmezliğinden vefât etmiştir."
+    },
+    "Seen Games": {
+        "profil": "https://avatars.akamai.steamstatic.com/fccdcb3a379c92e6455fc233da7069c0794c3eaf_full.jpg",
+        "isim": "Seen Games",
+        "koken": "Belirsiz",
+        "aciklama": "Bir oyun tasarım ekibidir. Henüz haklarında fazla bilgi olmasa da 21 Haziran 2019 tarihinde ilk eserleri olan bağımsız oyun \"Seen\"i piyasaya sürmüşlerdir."
+    }
+}

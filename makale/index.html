@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../style.css">
+        <title>Document</title>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="header">
+                <span id="expand">></span>
+                <span id="name"><img id="logo" src="../assets/logo.png" alt="Santikap" /></span>
+            </div><hr id="fillAll" />
+            <span class="item" data-redirect="../"><span>Ana Sayfa</span> <i class="fa fa-home"></i></span><hr id="fillAll" />
+            <span class="item" data-redirect="#header"><span>Giriş</span> <i class="fa fa-header"></i></span>
+            <span class="item" data-redirect="#story"><span>Hikâye</span> <i class="fa fa-paper-plane"></i></span>
+            <span class="item" data-redirect="#chars"><span>Karakterler</span> <i class="fa fa-star"></i></span>
+            <span class="item" data-redirect="#awards"><span>Ödüller</span> <i class="fa fa-award"></i></span>
+            <span class="item" data-redirect="#author"><span>Yazar</span> <i class="fa fa-user"></i></span>
+        </div>
+        <div class="topbar">
+            <span class="item" id="share">
+                <button>Paylaş <i class="fa fa-share"></i></button>
+            </span>
+            <span class="item" id="bookmarkSwitch">
+                <button>Kaydet <i class="fa fa-bookmark"></i></button>
+            </span>
+            <span class="item" id="theme">
+                <i class="fa fa-sun"></i>
+            </span>
+            <span id="expand"><i class="fa fa-bars"></i></span>
+        </div>
+        <div class="main article">
+            <img class="thumbnail" />
+            <div class="title"></div>
+            <div id="header">
+                <div class="desc"></div><hr id="fillAll" />
+            </div>
+            <div id="home">
+                <details>
+                    <summary>Genel Bilgi</summary><br><br>
+                    <div class="home-data">
+                        <p data-prop="sinif">Sınıf: <span></span></p>
+                        <p data-prop="tur">Tür: <span></span></p>
+                        <p data-prop="yazar">Yapımcı/Yazar: <span></span></p>
+                        <p data-prop="yayimlanma-tarihi">Yayımlanma Tarihi: <span></span></p>
+                    </div>
+                </details>
+            </div><hr id="fillAll" />
+            <div id="story">
+                <details>
+                    <summary>Hikâye</summary><br><br>
+                    <div class="text"></div>
+                </details>
+            </div><hr id="fillAll" />
+            <div id="chars">
+                <details>
+                    <summary>Karakterler</summary><br><br>
+                    <div id="table-container">
+                        <table>
+                            <tr id="topper"></tr>
+                        </table>
+                    </div>
+                </details>
+            </div><hr id="fillAll" />
+            <div id="awards">
+                <details>
+                    <summary>Başarılar</summary><br><br>
+                </details>
+            </div><hr id="fillAll" />
+            <div id="author">
+                <details>
+                    <summary>Yazar Hakkında</summary><br><br>
+                    <div class="text align">
+                        <p data-prop="profil" data-prop-fill="src"><img id="value" src="" class="profile" /></p>
+                        <p data-prop="isim"><b>İsim:</b> <span id="value"></span></p>
+                        <p data-prop="koken"><b>Köken:</b> <span id="value"></span></p>
+                        <p data-prop="aciklama"><span id="value"></span></p>
+                        <p class="source" data-prop="profil">Resim Kaynağı:  "<span id="value"></span>"</p>
+                    </div>
+                </details>
+            </div>
+            <div id="author"></div>
+        </div>
+        <div class="modal">
+            <img class="thumbnail" />
+            <div class="title"></div>
+            <div class="desc"></div>
+            <span class="close">&times;</span>
+        </div>
+        <div class="mask"></div>
+    </body>
+</html>
+<script src="script.js"></script>
+<script src="https://kit.fontawesome.com/d5360bfebf.js" crossorigin="anonymous"></script>

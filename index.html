@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css" />
+        <title>Santikap</title>
+    </head>
+    <body>
+        <div id="spoiler-alert">Dikkat! İstemediğiniz kadar spoiler içerir! <div><input type="checkbox" id="showAgain" /> Tekrar Gösterme</div> <span class="close">&times;</span></div>
+        <div class="navbar">
+            <div class="header">
+                <span id="expand">></span>
+                <span id="name"><img id="logo" src="assets/logo.png" alt="Santikap" /></span>
+            </div><hr id="fillAll" />
+            <span class="item" data-active><span>Tümü</span> <i class="fa fa-list"></i></span>
+            <span class="item" data-open="kitap"><span>Kitaplar</span> <i class="fa fa-book"></i></span>
+            <span class="item" data-open="video-oyunu"><span>Oyunlar</span> <i class="fa fa-gamepad"></i></span>
+        </div>
+        <div class="topbar">
+            <span class="item" id="feedback">
+                <button>Geri Bildirim <i class="fa fa-envelope"></i></button>
+            </span>
+            <span class="item" id="filterSwitch">
+                <button>Filtreler <i class="fa fa-filter"></i></button>
+            </span>
+            <span class="item" id="info">
+                <button>Bilgi Edin <i class="fa fa-question-circle-o"></i></button>
+            </span>
+            <span class="item" id="theme">
+                <i class="fa fa-sun"></i>
+            </span>
+            <span id="mobile-warning" style="padding-left: 1rem; padding-bottom: .5rem;">Dikkat: Mobil görünümde<br /> sorunlar olabilir</span>
+            <span id="expand"><i class="fa fa-bars"></i></span>
+        </div>
+        <div class="main">
+            <div class="filter">
+                <h2>Sonuçları filtrele:</h2>
+                <input id="name" type="text" placeholder="Madde İsmi" list="suggested" />
+                <div class="close">&times;</div>
+            </div>
+            <div class="categories">
+                <div data-page="kitap">
+                    <h1 id="category-title">Kitaplar</h1>
+                </div><hr id="fillAll" />
+                <div data-page="video-oyunu">
+                    <h1 id="category-title">Oyunlar</h1>
+                </div>
+            </div>
+            <span class="error">Aradığınız şartlarda bir madde bulunamadı! 🙁<br />Doğru yazdığınıza emin misiniz?</span>
+            <button id="show-more">Daha Fazla Yükle</button>
+        </div>
+        <datalist id="suggested"></datalist>
+        <div class="modal">
+            <img class="thumbnail" />
+            <div class="title"></div>
+            <div class="desc"></div>
+            <span class="close">&times;</span>
+        </div>
+        <div class="mask"></div>
+    </body>
+</html>
+<script src="script.js"></script>
+<script src="https://kit.fontawesome.com/d5360bfebf.js" crossorigin="anonymous"></script>

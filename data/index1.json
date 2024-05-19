@@ -1,0 +1,332 @@
+[
+    {
+        "isim": "İntibah",
+        "yazar": "Namık Kemal",
+        "gorsel": {
+            "logo": "intibah",
+            "afis": ""
+        },
+        "yayimlanma-tarihi": 1876,
+        "ozet": {
+            "kisa": "Ahlâklı bir genç olan Ali Bey, Mahpeyker adında kötü bir kadına âşık olur. Fakat bu aşk iyi sonuçlanmaz, Ali Bey'in başına büyük felâketler gelmesine sebebiyet verir.",
+            "orta": "İyi yetişmiş, işinde gücünde bir delikanlı olan Ali Bey; babasının vefatından sonra \"Mahpeyker\" isminde kötü bir kadına âşık olur. Ali Bey'in annesi onu bu yoldan çevirmek için \"Dilâşup\" adında bir câriye satın alıp oğlu ile evlendirir. Mahpeyker bu evliliği kıskanır ve Ali Bey'e kötü sonuçlanacak bir oyun oynar."
+        },
+        "dil": "Türkçe",
+        "sinif": "Kitap",
+        "tur": "Roman",
+        "karakterler": {
+            "Ali Bey": {
+                "Açıklama": "Baş karakterdir. Zengin bir ailede büyümüştür. İyi bir eğitim almıştır, aynı zamanda görgülüdür. Fakat inatçıdır ve sosyal anlamda bilgisizdir.",
+                "Yaş": "21",
+                "Cinsiyet": "Erkek"
+            },
+            "Mahpeyker": {
+                "Açıklama": "İstanbul'un ünlü hafifmeşrep kadınlarındandır. Baş karakter Ali Bey'i kendine bağlar ve kötü yollara iter, sonrasında da başına türlü belâlar açar.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "Fatma Hanım": {
+                "Açıklama": "Ali Bey'in annesidir. Maddî durumu iyidir. Çocuğuna karşı çok şefkatlidir, onun iyiliği için elinden geleni yapar.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın"
+            },
+            "Dilâşup": {
+                "Açıklama": "Ahlâklı, kocasına sâdık genç bir kadındır.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın"
+            },
+            "Âtıf Bey": {
+                "Açıklama": "Ali Bey'in Çamlıca'da buluşup  dertlerini paylaştığı, sohbet ettiği iş arkadaşıdır.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "Mesut Efendi": {
+                "Açıklama": "Âtıf Bey'in amcasıdır. Anlayışlı ve insan ilişkilerinde iyidir.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "Abdullah Efendi": {
+                "Açıklama": "Yaşlı, zengin ve ahlâksız bir adamdır. Parasını cinsî zevkleri için harcar.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "Hırvat": {
+                "Açıklama": "Abdullah Efendi'nin Ali Bey'i öldürmesi için tuttuğu kiralık katildir.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "Pertev Ağa": {
+                "Açıklama": "Abdullah Efendi'nin Dilâşup'a iftira atması için görevlendirdiği adamdır.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            }
+        },
+        "basarilar": {
+            "ilkler": ["Edebî Roman, Türk Edebiyatı"]
+        },
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    },
+    {
+        "isim": "Undertale",
+        "yazar": "Toby Fox, Temmie Chang",
+        "gorsel": {
+            "logo": "undertale",
+            "afis": "undertale-afis"
+        },
+        "yayimlanma-tarihi": 2015,
+        "ozet": {
+            "kisa": "Canavarların yaşadığı yeraltına düşen bir çocuk olan Frisk'in başından geçenler anlatılır.",
+            "orta": "Geçmiş zamanlarda dünyada yaşayan iki tür olan insanlar ve canavarlar arasında bir savaş çıkar. İnsanlar savaşı kazanırlar ve canavarları Ebott dağına hapsederler. Bu olaydan belli vakit sonra Frisk adında bir insan çocuğu Ebott dağına düşer ve başından türlü maceralar geçer.",
+            "uzun": "<div>Eski zamanlarda dünyada iki farklı topluluk yaşar: İnsanlar ve Canavarlar. İki taraf da yeryüzünde barış içinde yaşarken insanlar bir gün bir ihtimalden korkmaya başlarlar: Canavarlar, insanları öldürüp ruhlarını* alarak büyük bir güce ulaşıp insan ırkına zarar verebilirler. Tabii canavarlar hiçbir zaman böyle bir şeye kalkışmazlar, fakat insanların içinde büyüyen korku canavarlara savaş açmalarına sebep olur. Canavarlara aniden saldırıp kısa süre içinde gâlip olurlar ve tüm canavarları Ebott Dağı'na hapsederler. Ebott Dağı'nın yüzeyini de bir bariyerle kapatırlar. Bu bariyerden ancak bir insan ve bir canavar ruhu ile geçilebilir, 7 insan ruhu ile de bariyer tamamen kırılabilir.</div> <div>Canavarlar, zamanla bu duruma alışırlar. Fakat bir gün yaşanan beklenmedik bir olay işleri değiştirir. Chara isminde bir insan çocuğu Ebott Dağı'na düşer. Düşen çocuğu canavarların kralı Asgore'un oğlu Asriel bulur. Onu evlerine götürür, kral ve kraliçe onu kabul eder. Zaman içinde aile gibi olurlar. Ancak Chara, insanları sevmez. Üstüne bir de canavarların uğradığı haksızlığı görmek içinde onlara yardım etme isteği uyandırır.</div><div>Chara ve Asriel bir gün kral Asgore için bir kek pişirirler, fakat keke tereyağı (orj. cups of butter) yerine düğünçiçeği (orj. buttercups) koyarlar. Bu çiçekler zehirlidir ve kral Asgore'u hasta eder. Bu olaydan sonra bir gün Chara'nın aklına bir plan gelir ve planını Asriel'a anlatır. Plan şu şekildedir: Chara, Asgore'u zehirleyen düğünçiçeklerinden yiyecek ve ölecek; Asriel ise onun ruhunu alıp yeryüzüne çıkacak, 6 insan ruhu daha alıp bariyeri kıracak ve canavarları hak ettikleri özgürlüğe kavuşturacaktır. Asriel'a planını anlatır. Asriel başta bu plana sıcak bakmasa da Chara onu iknâ eder ve çiçeklerden yer, zehirlenir. Fakat ölmeden önce bir isteği olur: Yeryüzündeki köyünde bulunan çiçekleri görmek. Bariyerden geçemedikleri için yapabilecekleri bir şey yoktur. Fakat Asriel arkadaşı öldükten sonra onun isteğini yerde bırakmaz ve ruhunu alarak bir insan, bir canavar ruhuyla bariyerden geçer; Chara'nın bedenini sevdiği çiçeklerin yanına götürür. Fakat bu sırada onu gören insanlar Chara'yı onun öldürdüğünü zannedip ona saldırır, onu yaralarlar. Aslında Asriel iki rûha sahip olduğundan kendini savunabilecek güçtedir, fakat birilerine kendini savunmak için dahî zarar vermekten çekinecek kadar mâsum olduğundan sadece kaçabilir. Asriel yeraltına geri döndüğünde ölür.</div><div>İki çocuğuna bir günde kaybetmek Kral Asgore'u sinirlendirir ve her ne kadar istemese de beklenen kararı vermek zorunda kalır: Bundan sonra yeraltına düşen tüm insanlar öldürülecektir. Kraliçe Toriel onu bu kararından döndürmeye çalışır, fakat başaramayınca sarayı terk edip Harâbeler'e* yerleşir. Her sabah bir insanın yeraltına düşüp düşmediğini kontrol eder</div><div>Zaman böyle geçedursun, günlerden bir gün Sans şakalarını Harâbeler ve Snowdin'i ayıran kapı üzerinde denemeye gider. Kapıya \"tak, tak\" dediğinde beklemediği şekilde karşı taraftan cevap alır. Cevabı veren Toriel'dir. Birbirlerini görmeden uzun zaman sohbet ederler ve yine bir defasında Toriel, Sans'tan bir konuda söz ister: Snowdin'e bir insan gelirse Sans onu koruyacaktır.</div><div>İnsanlar hakkındaki kesin hüküm yürürlükteyken Kral Asgore, biliminsanı Alphys'den bariyeri kırmak için azim rûhunu üretmesini ister. Alphys bu deney için Asgore'un bahçesindeki çiçeklerden ilk açanını alır. Tesadüftür ki bu çiçeğin bulunduğu yer öncesinde Asriel'ın öldüğü yerdir; bu yüzden Alphys, üretmeye çalıştığı rûhu Asriel'a vermiş olur. Asriel bu şekilde bir çiçeğe dönüşür, fakat kimseye karşı sevgi hissedemez. Bu yüzden yeraltına düşen insanların ruhlarını alarak büyük bir güce sahip olma amacıyla hareket eder.</div><div>O günden bu güne yeraltına altı insan daha düşer ve hepsi ölürler. Geriye alınması gereken son bir ruh kalır. 7. çocuk olan Frisk yeraltına düşer ve oyuncu tarafından kontrol edilir. Yapılanlara göre Barışçıl (Doğru) Son, Normal Son veya Katliam Sonu'na varılabilir.</div><h2>Barışçıl (Doğru) Son</h2><div>Oyuncu sergüzeşti boyunca hiçbir canavara zarar vermez ve Undyne ile arasını yapmak gibi bazı özel şartları gerçekleştirirse oyun sonunda Flowey altı insan rûhunu ve arkadaş edinilen diğer canavarların rûhunu alarak çok güçlü bir hâle gelir ve Frisk ile savaşır. Eğer oyuncu, Asriel'ın içine aldığı canavar ruhlarını kurtarabilirse Asriel geçmişteki günlerini hatırlar ve yaptıklarından dolayı üzüntü duyar. Yaptıklarının özrü olarak ise tekrardan ruhsuz bir çiçeğe dönüşme pahasına içindeki tüm ruhları serbest bırakarak bariyeri kırar ve canavarları özgürlüklerine kavuşturur.</div><h2>Normal Son</h2><div>Eğer oyuncu tüm canavarları öldürmez fakat barışçıl sonun şartlarından en az birini terk ederse oyun sonunda Asgore ile savaştıktan sonra Flowey, o güne kadar toplanan altı insan rûhunu alır ve çok güçlü bir hâle dönüşür. Frisk ile savaşır. Flowey'nin içindeki insan ruhlarının da yardımıyla Frisk savaşı kazanır ve oyuncuya Flowey'i öldürme veya serbest bırakma seçeneği sunulur. Oyunun bitiminde oyun içinde yapılan seçimlere göre Frisk ile Sans arasında bir telefon konuşması gerçekleşir.</div><h2>Katliam Sonu</h2><div>Eğer oyuncu tüm canavarları öldürürse oyun sonunda Flowey, Frisk'ten korkar ve onu affetmesini ister. Fakat Frisk onu da öldürür. Sonrasında ise Chara tarafından öldürülür.</div><h2>Dipnotlar</h2><div><i>*Ruh: Undertale hikâyesinde \"ruh\", anlaşılacağı üzere gerçektekinden farklıdır. Oyunda \"ruh\" yalnızca mâneviyatı temsil etmez, aynı zamanda bir kişinin varlığının simgesidir ve ölen birinin ruhu kaybolmadan başka biri tarafından alınabilir. Bu ise ruhu alan kişiyi daha güçlü hâle getirir. Fakat canavarların ruhları ölümlerinden sonra çok kısa sürede parçalanırken insanlarınki başka birinin içine alabileceği kadar süre dayanabilir.</i></div><div><i>*Harâbeler: Harabeler, Ebott Dağı'nın girişinde bulunan küçük, tenha bir bölgedir.</i></div>"
+        },
+        "dil": "İngilizce",
+        "sinif": "Video Oyunu",
+        "tur": "Bağımsız Rol Yapma",
+        "karakterler": {
+            "Frisk": {
+                "Açıklama": "Kontrol edilen karakterdir. Yer altına düşen 8. çocuktur. Azim rûhuna sahiptir.",
+                "Yaş": "16'dan küçük",
+                "Cinsiyet": "Belirsiz",
+                "Tür": "İnsan"
+            },
+            "Chara": {
+                "Açıklama": "Yer altına düşen ilk çocuktur. İnsanları sevmemiştir, canavarlara özgürlüklerini vermeyi amaçlamıştır. Azim rûhuna sahiptir.",
+                "Yaş": "16'dan küçük -geçmişte-",
+                "Cinsiyet": "Belirsiz",
+                "Tür": "İnsan"
+            },
+            "Asriel": {
+                "Açıklama": "Canavarların kralı olan Asgore'un oğludur. Chara'yı yeryüzüne çıkardığı sırada insanlar tarafından yaralanmış, ölmüştür.",
+                "Yaş": "16'dan küçük -geçmişte-",
+                "Cinsiyet": "Erkek",
+                "Tür": "Canavar"
+            },
+            "Alphys": {
+                "Açıklama": "Canavar ırkının kraliyet bilim insanıdır. Canavarları özgürlüğe kavuşturmak için laboratuvarda deneyler yapmıştır. Frisk'i koruyup Asgore'un sarayına ulaşmasına yardımcı olur.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın",
+                "Tür": "Canavar"
+            },
+            "Undyne": {
+                "Açıklama": "Canavar ırkının kraliyet muhafızıdır. Yeraltına düşen insanları yakalayıp öldürmekle görevlidir. Sert bir mizaca sahiptir, güçlüdür.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın",
+                "Tür": "Canavar"
+            },
+            "Mettaton": {
+                "Açıklama": "Alphys tarafından üretilmiş bir robottur. Ünlü ve şöhret sahibi olma hayâli vardır. Frisk'i türlü numarlarla öldürmeye çalışır, fakat Alphys her seferinde onu kurtarır.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek",
+                "Tür": "Robot"
+            },
+            "Asgore": {
+                "Açıklama": "Canavar ırkının kralıdır. Başlangıçta insanlara karşı hoşgörülü bir politika izlese de Chara ve Asriel'ın ölümünden sonra yeraltına düşen insanları öldürtme kararını çıkarmaya mecbur kalır.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek",
+                "Tür": "Canavar"
+            },
+            "Toriel": {
+                "Açıklama": "Asgore'un eski eşi, yani kraliçedir. Asgore'un insanları öldürtme kararından sonra sarayı terk edip harabelere yerleşir. Merhametli ve şefkatlidir. Frisk'i elinden geldiğince korumaya çalışır ve onu çocuğu gibi sever.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın",
+                "Tür": "Canavar"
+            },
+            "Sans": {
+                "Açıklama": "Snowdin'de yaşayan bir iskelettir. Genellikle nükteleriyle bilinir, komik bir karakterdir. Toriel'e verdiği sözden dolayı Frisk'i korur, fakat oyuncu katliam yaparsa Frisk'i uyarır ve oyunun sonunda onunla savaşır.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek",
+                "Tür": "Canavar"
+            },
+            "Papyrus": {
+                "Açıklama": "Snowdin'de yaşayan bir iskelettir. Sans'ın erkek kardeşidir. Biraz saf, şöhret meraklısı fakat iyi kalplidir. Kraliyet muhafızlarının arasında katılma hevesiyle Frisk'i yakalamaya kalksa da sonunda bu fikriden vazgeçer, oyuncunun seçimlerine bağlı olarak Frisk ile arkadaş olabilir.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek",
+                "Tür": "Canavar"
+            },
+            "Flowey": {
+                "Açıklama": "Alphys'in Asriel öldüğünde onun rûhunu bir çiçeğe vermesiyle meydana gelmiştir. Kimseye karşı iyi şeyler hissedemez. Frisk'i türlü numaralarla kandırır, güce sahip olmak için onu öldürmek ister.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek",
+                "Tür": "Çiçek"
+            }
+        },
+        "motor": "Game Maker: Studio",
+        "basarilar": {
+            "galibiyetler": [
+                {
+                    "konu": "Oyun, Özgün Rol Yapma",
+                    "veren": "NAVGTR",
+                    "yil": 2015
+                }
+            ],
+            "adayliklar": [
+                {
+                    "konu": "Oyunlar, En İyi Hikâye",
+                    "veren": "BAFTA",
+                    "yil": 2016
+                },
+                {
+                    "konu": "Oyun Tasarımı, Yeni Fikrî Mülkiyet",
+                    "veren": "NAVGTR",
+                    "yil": 2015
+                },
+                {
+                    "konu": "Özgün Müzik Puanı, Yeni Fikrî Mülkiyet",
+                    "veren": "NAVGTR",
+                    "yil": 2015
+                }
+            ]
+        },
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    },
+    {
+        "isim": "Fareler ve İnsanlar",
+        "yazar": "John Steinback",
+        "gorsel": {
+            "logo": "fareler-ve-insanlar",
+            "afis": ""
+        },
+        "yayimlanma-tarihi": 1937,
+        "ozet": {
+            "kisa": "Büyük Buhran'da George Milton ve Lennie Small adlarında iki çiftlik işçisinin başlarından geçen trajik olaylar anlatılır.",
+            "orta": "Zekî ama ufak tefek George Milton ve iri yarı ama aklî dengesi tam yerinde olmayan Lennie Small iki seyyar çiftlik işçisidir. George; Lennie'yi mutlu etmek için ona para biriktireceklerini, beraber bir arsa alıp kendi hayvanlarına ve bahçelerine sahip olacaklarını anlatır. Zamanla bu hayâle o da inanır hâle gelir. Fakat Lennie'nin başından geçen bir olay üzerine planları suya düşer."
+        },
+        "dil": "İngilizce",
+        "sinif": "Kitap",
+        "tur": "Roman/Oyun",
+        "karakterler": {
+            "George Milton": {
+
+            },
+            "Lennie Small": {
+
+            },
+            "Candy": {
+
+            },
+            "Candy'nin köpeği": {
+
+            },
+            "Curley": {
+
+            },
+            "Curley'nin karısı": {
+
+            },
+            "Slim": {
+
+            },
+            "Crooks": {
+
+            },
+            "Carlson": {
+
+            },
+            "Whit": {
+
+            },
+            "Patron": {
+
+            },
+            "Clara teyze": {
+
+            }
+        },
+        "basarilar": {
+            "galibiyetler": [
+                {
+                    "konu": "Piyes",
+                    "veren": "New York Piyes Eleştirmenleri Birliği",
+                    "yil": 2015
+                },
+                {
+                    "konu": "Edebiyat",
+                    "veren": "İsveç Kraliyet Bilimler Akademisi, İsveç Akademisi, Karolinska Enstitüsü, Nobel Komitesi",
+                    "yil": 2015
+                }
+            ]
+        },
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    },
+    {
+        "isim": "Kürk Mantolu Madonna",
+        "yazar": "Sabahattin Ali",
+        "gorsel": {
+            "logo": "kurk-mantolu-madonna",
+            "afis": ""
+        },
+        "yayimlanma-tarihi": 1941,
+        "ozet": {
+            "kisa": "Baş kahraman Raif Efendi gençliğinde Berlin'e gider. Burada bir ressam kadın ile dostluk kurar. Fakat bir süre sonra beklenmedik sebeplerden ötürü dostlukları biter.",
+            "orta": "İçe dönük ve sessiz bir insan olan Raif Efendi genç yaşta iş öğrenmek için Berlin'e gider. Burada bir resim sergisinde gördüğü bir otoportre onu derinden etkiler. Bu otoportredeki kişi olan \"Maria Puder\" ile tanışır ve dostluk kurar. Fakat bir süre sonra Raif Efendi'nin babasının ölümü, buna müteâkiben Raif Efendi'nin memleketine dönmesinin gerekmesi ile beklenmedik bir şekilde araları sonsuza dek açılır. Olaylar; yıllar sonra, Raif Efendi ölüm döşeğindeyken günlüğünü okuyan Rasim'in ağzından anlatılır."
+        },
+        "dil": "Türkçe",
+        "sinif": "Kitap",
+        "tur": "Roman",
+        "karakterler": {
+            "Maria Puder": {
+                "Açıklama": "Yahudi asıllı bir Almandır. Ressamdır. İnsan ilişkilerinde baskındır, istediğini yaptıran bir kişiliktir.",
+                "Cinsiyet": "Kadın"
+            },
+            "Raif Efendi": {
+                "Açıklama": "Havranlıdır. Melankolik ve içine kapanık bir kişiliktir. Dış dünyayla bağı zayıftır, kendi hayâl dünyasında yaşar. Yirmili yaşlarında Berlin'e gittiğinde Maria Puder'in otoportresini çok beğenir ve onu tanımadan ona âşık olur.",
+                "Cinsiyet": "Erkek"
+            },
+            "Rasim": {
+                "Açıklama": "Raif Efendi'nin hikâyesini okuyucuya açıklayan iş arkadaşıdır. Bir arkadaşının ona ayarladığı iş vesîlesiyle Raif Efendi ile aynı odada çalışmış, bu içi boş görünen adamın gizemli kişiliğini çözmeye çalışmıştır.",
+                "Cinsiyet": "Erkek"
+            }
+        },
+        "basarilar": {},
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    },
+    {
+        "isim": "Seen",
+        "yazar": "Seen Games",
+        "gorsel": {
+            "logo": "seen",
+            "afis": "seen-afis"
+        },
+        "yayimlanma-tarihi": 2019,
+        "ozet": {
+            "kisa": "Kötülüğün hâkim olduğu bir dünyada yaşayan çocuğun buradan kaçmaya çalışma hikâyesi anlatılır.",
+            "orta": "Bir çocuk kötü insanlar ve onların sahte iyilikleriyle çevrilmiş dünyasından kedisiyle beraber kaçmaya çalışır, geçtiği yollardan umut toplar ve kötü sözlere kulak tıkar."
+        },
+        "dil": "İngilizce",
+        "sinif": "Video Oyunu",
+        "tur": "Bağımsız Macera",
+        "karakterler": {
+            "Çocuk": {
+                "Açıklama": "Karanlık bir dünyadan kaçmaya çalışan ana karakterdir. Sık sık aşağılamalara uğrar, fakat yoluna kararlılıkla devam eden ana karakterdir.",
+                "Cinsiyet": "Erkek",
+                "Yaş": "16'dan küçük"
+            },
+            "Kötü Adam": {
+                "Açıklama": "Ana karaktere hem fiziksel hem de psikolojik şiddet uygular. Yüzünde bir yara izi vardır.",
+                "Cinsiyet": "Erkek",
+                "Yaş": "?"
+            },
+            "Kedi": {
+                "Açıklama": "Ana karakterin evcil hayvanıdır. Zaman zaman onu kötü durumlardan kurtarır, moralini düzeltmeye çalışır.",
+                "Cinsiyet": "?",
+                "Yaş": "?"
+            }
+        },
+        "motor": "Belirsiz",
+        "basarilar": {
+            "galibiyetler": [],
+            "adayliklar": []
+        },
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    }
+]
