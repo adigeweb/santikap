@@ -67,7 +67,7 @@ var filesArray = Array.prototype.shuffle(Array.from({ length: 1 }, (_, i) => (i 
 var lastLoadedFile = 0;
 
 window.addEventListener("load", () => {
-    if (!localStorage.getItem("ansiklopedi.loggedBefore")) location.href = "/hosgeldin";
+    if (!localStorage.getItem("ansiklopedi.loggedBefore") && !checkMobileView(screen.width, screen.height)) location.href = "/hosgeldin";
     fetchData(`index${filesArray[lastLoadedFile]}`)
         .then(data => fill(data, filesArray[lastLoadedFile]));
     if (localStorage.getItem("ansiklopedi.theme")) {
