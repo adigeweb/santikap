@@ -328,5 +328,52 @@
         "ilave-bilgi": {
             "ekleyen": "Kumkuatte"
         }
-    }
+    },
+    {
+        "isim": "Ana",
+        "yazar": "Maksim Gorki",
+        "gorsel": {
+            "logo": "intibah",
+            "afis": ""
+        },
+        "yayimlanma-tarihi": 1906,
+        "ozet": {
+            "kisa": "",
+            "orta": ""
+        },
+        "dil": "Rusça",
+        "sinif": "Kitap",
+        "tur": "Roman",
+        "karakterler": {
+            "Ana (Pelage)": {
+                "Açıklama": "Pavel'in annesidir. Bir işçi olan kocası tarafından çok şiddet görmüştür.",
+                "Yaş": "40",
+                "Cinsiyet": "Kadın"
+            },
+            "Pavel": {
+                "Açıklama": "Pavel açıklaması",
+                "Yaş": "13",
+                "Cinsiyet": "Erkek"
+            },
+            "Andre (Ukraynalı)": {
+                "Açıklama": "Ukraynalı bir gençtir.",
+                "Yaş": "?",
+                "Cinsiyet": "Erkek"
+            },
+            "": {
+                "Açıklama": "Ahlâklı, kocasına sâdık genç bir kadındır.",
+                "Yaş": "?",
+                "Cinsiyet": "Kadın"
+            },
+            "Nataşa": {
+                "Açıklama": "",
+                "Yaş": "?",
+                "Cinsiyet": "Kız"
+            }
+        },
+        "basarilar": {},
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
+    },
 ]
