@@ -69,7 +69,8 @@ var lastLoadedFile = 0;
 window.addEventListener("load", () => {
     if (!localStorage.getItem("ansiklopedi.loggedBefore") && !checkMobileView(screen.width, screen.height)) location.href = "/hosgeldin";
     fetchData(`index${filesArray[lastLoadedFile]}`)
-        .then(data => fill(data, filesArray[lastLoadedFile]));
+        .then(data => fill(data, filesArray[lastLoadedFile]))
+        .catch(err => console.error(err));
     if (localStorage.getItem("ansiklopedi.theme")) {
         setTheme(localStorage.getItem("ansiklopedi.theme"));
     }
