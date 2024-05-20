@@ -333,7 +333,7 @@
         "isim": "Ana",
         "yazar": "Maksim Gorki",
         "gorsel": {
-            "logo": "intibah",
+            "logo": "ana",
             "afis": ""
         },
         "yayimlanma-tarihi": 1906,
@@ -346,25 +346,17 @@
         "sinif": "Kitap",
         "tur": "Roman",
         "karakterler": {
-            "Ana (Pelage)": {
-                "Açıklama": "Pavel'in annesidir. Bir işçi olan kocası tarafından çok şiddet görmüştür.",
-                "Yaş": "40",
+            "Ana (Pelageya Nilovna Vlasov)": {
+                "Açıklama": "Romanın ana karakteri ve Pavel'in annesidir. Bir işçi olan kocası tarafından çok şiddet görmüştür.",
                 "Cinsiyet": "Kadın"
             },
-            "Pavel": {
-                "Açıklama": "Pavel açıklaması",
-                "Yaş": "13",
+            "Pavel Vlasov": {
+                "Açıklama": "Ana'nın oğludur. Cesurdur; fikirlerinde ve davranışlarında katı, fikirlerine sâdıktır.",
                 "Cinsiyet": "Erkek"
             },
             "Andre (Ukraynalı)": {
-                "Açıklama": "Ukraynalı bir gençtir.",
-                "Yaş": "?",
+                "Açıklama": "Ukraynalı bir gençtir. Öz annesini hiç görmemiştir fakat Ana'yı annesi gibi sever. Pavel'e nazaran biraz daha duygusaldır.",
                 "Cinsiyet": "Erkek"
-            },
-            "Nataşa": {
-                "Açıklama": "...",
-                "Yaş": "?",
-                "Cinsiyet": "Kız"
             }
         },
         "basarilar": {},

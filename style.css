@@ -268,6 +268,15 @@ body:has(#spoiler-alert[data-active]) .main {
     object-fit: cover;
 }
 
+[data-page=kitap] .box img.logo:hover {
+    height: 25rem;
+    width: 95%;
+}
+
+[data-page=kitap] .box:has( img.logo:hover) .more {
+    opacity: 0;
+}
+
 .box span.title {
     font-size: 30px;
     text-align: center;
