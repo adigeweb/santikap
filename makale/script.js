@@ -27,6 +27,8 @@ window.addEventListener("load", () => {
             document.querySelector(".main.article #chars table").appendChild(row);
         });
         document.querySelectorAll("#home details .home-data p").forEach(item => {
+            if (!data[item.getAttribute("data-prop")]) return;
+            item.style.display = "block";
             item.querySelector("span").innerText = data[item.getAttribute("data-prop")];
         });
         document.querySelector("#story details .text").innerHTML = data["ozet"]["uzun"] ? data["ozet"]["uzun"] : "Bu hikâye henüz hazır değil!..";

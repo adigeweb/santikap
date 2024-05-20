@@ -245,6 +245,8 @@ body:has(#spoiler-alert[data-active]) .main {
     gap: 2rem;
 }
 
+[data-prop] { display: none; }
+
 /********************************************/
 
 .box {

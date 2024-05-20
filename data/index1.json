@@ -185,6 +185,7 @@
     },
     {
         "isim": "Fareler ve İnsanlar",
+        "orijinal-isim": "Of Mice and Men",
         "yazar": "John Steinback",
         "gorsel": {
             "logo": "fareler-ve-insanlar",
@@ -320,7 +321,7 @@
                 "Yaş": "?"
             }
         },
-        "motor": "Belirsiz",
+        "motor": "Unreal Engine (?)",
         "basarilar": {
             "galibiyetler": [],
             "adayliklar": []
@@ -331,6 +332,7 @@
     },
     {
         "isim": "Ana",
+        "orijinal-isim": "Мать (Mat')",
         "yazar": "Maksim Gorki",
         "gorsel": {
             "logo": "ana",
