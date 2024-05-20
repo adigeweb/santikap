@@ -134,7 +134,7 @@ window.addEventListener("load", () => {
             location.href = item.getAttribute("data-redirect");
         });
     });
-    document.querySelectorAll("img").forEach((item) => {
+    document.querySelectorAll(":not(.modal) img").forEach(item => {
         item.addEventListener("error", (event) => {
             event.target.src = `https://placehold.co/1000x200`;
         });
