@@ -338,8 +338,9 @@
         },
         "yayimlanma-tarihi": 1906,
         "ozet": {
-            "kisa": "",
-            "orta": ""
+            "kisa": "Pavel adında bir genç babasının ölümünden sonra sosyalist fikirlerle tanışır ve kendisinin ve annesinin hayatının çok değişmesine sebep olur.",
+            "orta": "Pavel adında bir genç ve ailesi Rusya'nın bir işçi mahallesi yaşamaktadır. Pavel sık sık içen ve annesini döven babasının ölümünden sonra bir topluluk sayesinde sosyalist fikirlerle tanışır ve hem kendisinin hem annesinin hayatında büyük değişiklikler meydana gelmesine sebep olur.",
+            "uzun": ""
         },
         "dil": "Rusça",
         "sinif": "Kitap",
@@ -359,11 +360,6 @@
                 "Açıklama": "Ukraynalı bir gençtir.",
                 "Yaş": "?",
                 "Cinsiyet": "Erkek"
-            },
-            "": {
-                "Açıklama": "Ahlâklı, kocasına sâdık genç bir kadındır.",
-                "Yaş": "?",
-                "Cinsiyet": "Kadın"
             },
             "Nataşa": {
                 "Açıklama": "",
