@@ -106,6 +106,8 @@ window.addEventListener("load", () => {
                 var node = data[name];
                 document.querySelectorAll("#author details p").forEach(item => {
                     var defaultPropFill = item.getAttribute("data-prop-fill") ? item.getAttribute("data-prop-fill") : "innerText";
+                    if (!node[item.getAttribute("data-prop")]) return;
+                    item.style.display = "block";
                     item.querySelector("#value")[defaultPropFill] = node[item.getAttribute("data-prop")];
                 });
             })
