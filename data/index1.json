@@ -365,5 +365,39 @@
         "ilave-bilgi": {
             "ekleyen": "Kumkuatte"
         }
+    },
+    {
+        "isim": "İntibah",
+        "yazar": "Namık Kemal",
+        "gorsel": {
+            "logo": "intibah",
+            "afis": ""
+        },
+        "yayimlanma-tarihi": 1876,
+        "ozet": {
+            "kisa": "Ahlâklı bir genç olan Ali Bey, Mahpeyker adında kötü bir kadına âşık olur. Fakat bu aşk iyi sonuçlanmaz, Ali Bey'in başına büyük felâketler gelmesine sebebiyet verir.",
+            "orta": "İyi yetişmiş, işinde gücünde bir delikanlı olan Ali Bey; babasının vefatından sonra \"Mahpeyker\" isminde kötü bir kadına âşık olur. Ali Bey'in annesi onu bu yoldan çevirmek için \"Dilâşup\" adında bir câriye satın alıp oğlu ile evlendirir. Mahpeyker bu evliliği kıskanır ve Ali Bey'e kötü sonuçlanacak bir oyun oynar."
+        },
+        "dil": "Farsça",
+        "sinif": "Kitap",
+        "tur": "Çocuk",
+        "karakterler": {}
+        "basarilar": {
+            "galibiyetler": [
+                {
+                    "konu": "Edebiyat",
+                    "veren": "Bratislav Ödülü",
+                    "yil": 1969
+                },
+                {
+                    "konu": "Çocuk Kitabı",
+                    "veren": "Bellevue 6. Çocuk Kitap Fuarı",
+                    "yil": ""
+                }
+            ]
+        },
+        "ilave-bilgi": {
+            "ekleyen": "Kumkuatte"
+        }
     }
 ]
