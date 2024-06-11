@@ -365,9 +365,15 @@
         "ilave-bilgi": {
             "ekleyen": "Kumkuatte"
         }
+<<<<<<< HEAD
     },
     {
         "isim": "Küçük Kara Balık",
+=======
+    },
+    {
+        "isim": "Küçük Kara Balık",
+>>>>>>> 9ad8acff622316a61be1d63e5f82479726279870
         "orijinal-isim": "Mâhi-ye Siyâhe Kuchulu",
         "yazar": "Samed Behrengi",
         "gorsel": {
@@ -382,6 +388,7 @@
         "dil": "Farsça",
         "sinif": "Kitap",
         "tur": "Çocuk",
+<<<<<<< HEAD
         "karakterler": {
             "Küçük Kara Balık": {
                 "Açıklama": "Nehirde yaşayan genç bir balıktır. Meraklı ve asidir."
@@ -400,6 +407,26 @@
                     "yil": "?"
                 }
             ]
+=======
+        "karakterler": {
+            "Küçük Kara Balık": {
+                "Açıklama": "Nehirde yaşayan genç bir balıktır. Meraklı ve asidir."
+            }
+        },
+        "basarilar": {
+            "galibiyetler": [
+                {
+                    "konu": "Edebiyat",
+                    "veren": "Bratislav Ödülü",
+                    "yil": 1969
+                },
+                {
+                    "konu": "Çocuk Kitabı",
+                    "veren": "Bellevue 6. Çocuk Kitap Fuarı",
+                    "yil": "?"
+                }
+            ]
+>>>>>>> 9ad8acff622316a61be1d63e5f82479726279870
         },
         "ilave-bilgi": {
             "ekleyen": "Kumkuatte"
