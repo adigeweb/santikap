@@ -9,7 +9,7 @@
     </head>
     <body>
         <div class="centered-container">
-            <h1>Santikap'a madde önerisinde bulun! (Hazır Değil)</h1>
+            <h1>[HAZIR DEĞİL, ÇALIŞMIYOR!]<br />Santikap'a madde önerisinde bulun</h1>
             <div class="form">
                 <h2>Genel Bilgi</h2>
                 Madde İsmi: <input type="text" id="isim" data-format="3, 30" />
@@ -21,7 +21,7 @@
                     <option value="Fransızca">Fransızca</option>
                     <option value="Diğer">Diğer</option>
                 </select>
-                Dil (Diğer): <input type="lang-other" />
+                Dil (Diğer): <input type="lang-other" data-optional />
                 <h2>Kategorizasyon</h2>
                 Madde Sınıfı: <input type="text" id="sinif" placeholder="Örn. Kitap" />
                 Madde Türü: <input type="text" id="tur" placeholder="Örn. Roman" />
@@ -31,7 +31,7 @@
                 Uzun: <textarea type="text" id="isim" data-format="250, 10000" placeholder="250-10000 karakter"></textarea>
                 <h2>Gönüllü Kişi</h2>
                 <input type="text" id="ekleyen" placeholder="Adınız/Kullanıcı Adınız" />
-                <button disabled>Gönder</button>
+                <button disabled id="send-article">Gönder</button>
             </div>
         </div>
     </body>
