@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="./style.css">
+        <title>Document</title>
+    </head>
+    <body>
+        <div class="centered-container">
+            <h1>Santikap'a madde önerisinde bulun! (Hazır Değil)</h1>
+            <div class="form">
+                <h2>Genel Bilgi</h2>
+                Madde İsmi: <input type="text" id="isim" data-format="3, 30" />
+                Yazar/Yapımcı: <input type="text" id="yapimci" data-format="3, 30" />
+                Yayımlanma Tarihi: <input type="text" id="yayimlanma-tarihi" data-format="1, 4" placeholder="YYYY" />
+                Dil: <select id="langs">
+                    <option value="Türkçe">Türkçe</option>
+                    <option value="İngilizce">İngilizce</option>
+                    <option value="Fransızca">Fransızca</option>
+                    <option value="Diğer">Diğer</option>
+                </select>
+                Dil (Diğer): <input type="lang-other" />
+                <h2>Kategorizasyon</h2>
+                Madde Sınıfı: <input type="text" id="sinif" placeholder="Örn. Kitap" />
+                Madde Türü: <input type="text" id="tur" placeholder="Örn. Roman" />
+                <h2>Açıklamalar</h2>
+                Kısa: <textarea type="text" id="isim" data-format="70, 100" placeholder="70-100 karakter"></textarea>
+                Orta: <textarea type="text" id="isim" data-format="100, 120" placeholder="100-120 karakter"></textarea>
+                Uzun: <textarea type="text" id="isim" data-format="250, 10000" placeholder="250-10000 karakter"></textarea>
+                <h2>Gönüllü Kişi</h2>
+                <input type="text" id="ekleyen" placeholder="Adınız/Kullanıcı Adınız" />
+                <button disabled>Gönder</button>
+            </div>
+        </div>
+    </body>
+</html>
+<script src="script.js"></script>

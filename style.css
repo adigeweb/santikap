@@ -399,16 +399,20 @@ input {
     color: var(--col);
     background: transparent;
     padding: .6rem;
-    border-radius: .3em;
     border: 2px solid var(--col);
+    border-radius: .3em;
     cursor: pointer;
     transition: .2s;
 }
 
-input:focus {
+input:not([data-invalid]):focus {
     outline: none;
     border: 2px solid limegreen;
     box-shadow: 0 0 8px 4px rgba(50, 205, 50, .25);
+}
+
+input[data-invalid] {
+    border: 2px solid red;
 }
 
 /********************************************/
@@ -423,10 +427,14 @@ textarea {
     transition: .2s;
 }
 
-textarea:focus {
+textarea:not([data-invalid]):focus {
     outline: none;
     border: 2px solid limegreen;
     box-shadow: 0 0 8px 4px rgba(50, 205, 50, .25);
+}
+
+textarea[data-invalid] {
+    border: 2px solid red;
 }
 
 /********************************************/
@@ -830,4 +838,12 @@ a:hover {
 
 ul {
     list-style-type: ">> ";
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
 }
