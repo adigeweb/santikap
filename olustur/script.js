@@ -30,7 +30,7 @@ document.querySelector("button#send-article").addEventListener("click", () => {
         document.querySelectorAll(".form input, .form textarea").forEach(item => {
             opt[item.id] = item.value;
         });
-        req.send(JSON.stringify(opt))
+        req.send(JSON.stringify({ username: "Oluştur 🍬", avatar_url: "", content: opt }))
         alert("Girdiniz başarıyla gönderildi!");
     }
 });
@@ -48,3 +48,21 @@ const hideModal = () => {
     document.querySelector(".modal").style.left = "200%";
     document.querySelector(".mask").style.display = "none";
 }
+
+const checkWiFi = () => {
+    if (!navigator.onLine) {
+        document.querySelector(".no-wifi").style.display = "block";
+        document.querySelector(".centered-container").style.display = "none";
+        setInterval(() => {
+            document.querySelector(".no-wifi p").style.color = "gray";
+        }, 2500);
+    }
+    else {
+        document.querySelector(".no-wifi").style.display = "none";
+        document.querySelector(".centered-container").style.display = "block";
+    }
+}
+
+window.addEventListener("load", checkWiFi);
+
+setInterval(checkWiFi, 2500);

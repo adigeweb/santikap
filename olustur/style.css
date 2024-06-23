@@ -13,3 +13,13 @@ hr {
 h1 {
     text-align: center;
 }
+
+.no-wifi {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:
+    translate(-50%, -50%);
+    text-align: center;
+}

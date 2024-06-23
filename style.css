@@ -439,6 +439,18 @@ textarea[data-invalid] {
 
 /********************************************/
 
+select {
+    color: var(--col);
+    background: var(--bg);
+    padding: .6rem;
+    border: 2px solid var(--col);
+    border-radius: .3em;
+    cursor: pointer;
+    transition: .2s;
+}
+
+/********************************************/
+
 span.error {
     display: none;
     position: absolute;
@@ -846,4 +858,10 @@ ul {
     align-items: center;
     flex-direction: column;
     gap: 1rem;
+}
+
+.no-wifi p {
+    color: var(--bg);
+    font-size: 20px;
+    transition: .2s;
 }
